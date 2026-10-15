@@ -3,6 +3,6 @@ pandas==2.2.3
 scipy==1.14.1
 matplotlib==3.9.2
 seaborn==0.13.2
-yfinance==0.2.50
+yfinance==1.7.0
 nbconvert==7.16.4
 ipykernel==6.29.5
